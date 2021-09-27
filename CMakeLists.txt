@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 2.6)
 
 project(wordcounter)
-set(LIB_SOURCES src/word_counter.cpp src/external_set.cpp)
-set(LIB_HEADERS include/word_counter.cpp include/external_set.h)
+set(LIB_SOURCES src/word_counter.cpp) 
+set(LIB_HEADERS include/word_counter.cpp)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
