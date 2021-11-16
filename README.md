@@ -6,4 +6,4 @@ Implement functions counting the number of unique words in a text. Text can be r
 
 ## Author
 
-Daniil Lebedev aka [@alphaver](github.com/alphaver), student (4th year, group 13), FAMCS BSU
+Daniil Lebedev aka [@alphaver](github.com/alphaver), student (4th year, group 13), FAMCS, BSU
